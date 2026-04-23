@@ -1,36 +1,83 @@
-# [Hugo Résumé Theme](https://github.com/HugoBlox/hugo-theme-resume)
+# 👋 Hi, I'm Melsew Belachew
 
-[![Screenshot](./.github/preview.png)](https://hugoblox.com/templates/)
+### 🧠 Researcher | 💻 Software Developer | 🎓 Lecturer
 
-The Hugo **Résumé Template** empowers you to easily create your job-winning online résumé, showcase your expertise, and share your social profiles to grow your audience.
+I am a passionate **Researcher, Software Developer, and Lecturer** at the **College of Informatics, University of Gondar, Ethiopia**. My work focuses on leveraging **Artificial Intelligence, Data Science, and Digital Health Technologies** to solve real-world problems, particularly in low-resource settings.
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, block-based website builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+---
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/MakeOwnable?label=Follow%20on%20Twitter)](https://x.com/MakeOwnable)
+## 🚀 About Me
 
-[Check out the latest demo](https://hugo-resume-theme.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://hugoblox.com/creators/).
+- 🎓 Lecturer at **University of Gondar**
+- 🔬 Researcher in **AI, Machine Learning, and Health Data Science**
+- 💻 Experienced in **software development and system design**
+- 🌍 Interested in **AI for social good and global health innovation**
+- 📊 Working on **data integration, record linkage, and intelligent systems**
 
-The integrated [**Hugo Blox**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+---
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **HugoBlox Kit community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@MakeOwnable](https://x.com/MakeOwnable)  [#MadeWithHugoBlox](https://x.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/kit/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/kit/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/) and [Release Notes](https://github.com/HugoBlox/kit/releases)
+## 🛠️ Technical Skills
 
-## We ask you, humbly, to support this open source movement
+### 👨‍💻 Programming & Development
+- Python | Java | PHP | JavaScript
+- Web Development (HTML, CSS, React)
+- Backend Development & APIs
 
-Today we ask you to defend the open source independence of the HugoBlox Kit and themes 🐧
+### 🤖 AI & Data Science
+- Machine Learning & Deep Learning
+- Natural Language Processing (NLP)
+- Data Analysis & Visualization
+- Streamlit for interactive dashboards
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+### 🗄️ Tools & Technologies
+- Git & GitHub
+- MySQL / PostgreSQL
+- TensorFlow / PyTorch
+- Docker (basic)
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+---
 
-## Demo credits
+## 📚 Research Interests
 
-- [Unsplash](https://unsplash.com/) images
+- 🧠 Artificial Intelligence in Healthcare  
+- 🏥 Digital Health Systems  
+- 🔗 Record Linkage & Data Integration  
+- 🤖 Generative AI for Low-Resource Settings  
+- 📊 Health Data Analytics  
+
+---
+
+## 🏫 Affiliation
+
+**University of Gondar**  
+College of Informatics  
+📍 Gondar, Ethiopia  
+🌐 https://www.uog.edu.et  
+
+---
+
+## 🔗 Profiles & Links
+
+- 🧾 ORCID: https://orcid.org/0000-0002-3416-309X  
+- 🌍 Institution: https://www.uog.edu.et  
+
+---
+
+## 📈 GitHub Stats
+
+![Melsew's GitHub stats](https://github-readme-stats.vercel.app/api?username=melsew&show_icons=true&theme=default)
+
+---
+
+## 🤝 Let's Collaborate
+
+I am open to:
+- Research collaborations
+- AI & Data Science projects
+- Academic and industry partnerships
+
+📫 Feel free to connect and collaborate!
+
+---
+
+⭐ _"Building intelligent systems that create real-world impact."_  
